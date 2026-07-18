@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "api": "json-server api/db.json --port 4000"
+  },
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
